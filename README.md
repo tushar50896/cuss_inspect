@@ -28,7 +28,7 @@ weighted avg | 0.96 | 0.96 | 0.96
 
 
 ### Receiver Operating Characteristics 
-
+![ROC Curve](https://github.com/LMSharma/cuss_inspect/blob/main/ROC_Curve.jpeg) 
 
 ## Installation
 
