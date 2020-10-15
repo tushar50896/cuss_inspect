@@ -1,4 +1,7 @@
 # cuss_inspect
+![pypi](https://img.shields.io/pypi/v/cuss-inspect?style=plastic) 
+![](https://img.shields.io/github/license/tushar50896/cuss_inspect?style=plastic)
+
 A simple yet powerful library to predict toxicity/profanity of a review/comment or list of reviews/comments.
 
 ## How It Works
