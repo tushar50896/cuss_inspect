@@ -1,8 +1,9 @@
 # cuss_inspect
+A simple yet powerful library to predict toxicity/profanity of a review/comment or list of reviews/comments.
 
 ## How It Works
 
-`cuss_inspect` is a logistic regression based model trained on 180K+ reviews and tested on 24K+ reviews.
+`cuss_inspect` is a logistic regression based model trained on 180K+ reviews and tested on 24K+ reviews. The library does not uses any specific wordlist/swear-words-list but is able to detected most of the swear words easily.
 
 ### Performance
 
