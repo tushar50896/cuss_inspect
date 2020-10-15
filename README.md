@@ -17,7 +17,7 @@ A simple yet powerful library to predict toxicity/profanity of a review/comment 
 
 ### Accuracy
 
-This table speaks for itself:
+The accuracy,precision and recall are quite impressive as compared to other models. Logistic regression for text classification outperforms many other classifcation algorithms such as SVC,Decision Tree and Naive Bayes.
 
 | | Precision | Recall | F1 Score
 | --- | ------- | ------------- | ---------------------- 
