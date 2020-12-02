@@ -1,10 +1,10 @@
 import pickle
 import pkg_resources
 #load vectorizer to make  tfidfvectors of the review
-vectorizer = pickle.load(open(pkg_resources.resource_filename('cuss_inspect', 'data/vectorizerv3.lgst'),'rb'))
+vectorizer = pickle.load(open(pkg_resources.resource_filename('cuss_inspect', 'data/vectorizer_v4.lgst'),'rb'))
 
 #load our pretrained ML model
-model = pickle.load(open(pkg_resources.resource_filename('cuss_inspect', 'data/logitclfv3.lgst'),'rb'))
+model = pickle.load(open(pkg_resources.resource_filename('cuss_inspect', 'data/logitclf_v4.lgst'),'rb'))
 
 def process(user_input):
 	input_type = type(user_input)
