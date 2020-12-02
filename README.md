@@ -24,9 +24,9 @@ The accuracy,precision and recall are quite impressive as compared to other mode
 
 | | Precision | Recall | F1 Score
 | --- | ------- | ------------- | ---------------------- 
-0 | 0.84 | 0.94 | 0.89
-1 | 0.99 | 0.96 | 0.98
-Accuracy | | | 0.96
+0 | 0.83 | 0.94 | 0.88
+1 | 0.99 | 0.96 | 0.97
+Accuracy | | | 0.95
 macro avg | 0.91 | 0.95 | 0.93
 weighted avg | 0.96 | 0.96 | 0.96
 
