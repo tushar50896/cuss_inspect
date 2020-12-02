@@ -1,0 +1,7 @@
+The word vectorizer can be downloaded from the following link.
+
+https://drive.google.com/file/d/1oYRpDzI4_lRTqilYhXX84No1KbnT922r/view?usp=sharing
+
+Just download the vectorizer and copy it in the 'data' folder in cuss_inspect
+
+
